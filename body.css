@@ -1,0 +1,24 @@
+.text-info {
+  padding: 20px;
+  margin-right: 40%;
+  margin-left: 2%;
+}
+
+.text-info p {
+  margin-top: 5px;
+}
+
+.logo-text {
+  float: right;
+  margin-right: 50px;
+  margin-top: 5%;
+}
+
+.socialmedia {
+  margin-left: 70px;
+  margin-top: 50px;
+}
+
+.socialmedia i {
+  margin: 30px;
+}
