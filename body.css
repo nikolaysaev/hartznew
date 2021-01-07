@@ -2,11 +2,20 @@
   padding: 20px;
   margin-right: 40%;
   margin-left: 2%;
+  margin-top: 10%;
 }
 
 .text-info p {
-  margin-top: 5px;
+  margin-top: 15px;
+  font-family: 'Montserrat', sans-serif;
+
 }
+
+.text-info h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
 
 .logo-text {
   float: right;

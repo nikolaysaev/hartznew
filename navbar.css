@@ -16,6 +16,8 @@
 .navimage {
   height: 100px;
   width: 1000px;
+  position: fixed;
+  top: 0;
 }
 
 nav{
@@ -23,14 +25,14 @@ nav{
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  font-family: 'PT Sans Narrow', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   position: fixed;
   top: 0;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  z-index: 100;
+  z-index: 90;
   margin-right: +600px;
   border-radius: 0 0 45px 45px;
 }
