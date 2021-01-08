@@ -11,6 +11,9 @@
     font-size: 16px;
     font-weight: 500;
     padding:55px 50px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .footer .footer-left,
@@ -36,6 +39,7 @@
     color: #fff;
     margin: 20px 0 12px;
     padding: 0;
+    padding-top: 12px;
 }
 
 .footer .footer-links a{
@@ -52,6 +56,7 @@
     font-size: 14px;
     font-weight: normal;
     margin: 0;
+    padding-top: 20px;
 }
 
 .footer .footer-center{
