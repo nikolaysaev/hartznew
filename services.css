@@ -1,0 +1,75 @@
+.services {
+   margin-left: 5%;
+   margin-top: 5%;
+   display: inline-block;
+   font-family: 'Play', sans-serif;
+
+
+}
+
+.srvcs {
+
+}
+
+.services h2 {
+  margin-top: 15px;
+
+}
+
+.srvcs h2 p {
+  padding-top: 10px;
+  margin-right: ;
+
+}
+
+.srvcs li {
+  padding-top: 10px;
+  margin-right: 20%;
+
+}
+
+.block-one {
+  float: left;
+  width: 45%;
+  border-style: solid;
+  border-width: 1.2px;
+  border-radius: 10px;
+  padding: 1%;
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.block-two {
+  float: right;
+  width: 45%;
+  border-style: solid;
+  border-width: 1.2px;
+  border-radius: 10px;
+  padding: 1%;
+  margin-right: 5%;
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.hmm {
+  text-align: center;
+  border-style: solid;
+  border-width: 1.2px;
+  border-radius: 10px;
+  padding: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+  font-family: 'Play', sans-serif;
+
+
+}
+
+.services-full {
+
+
+}
