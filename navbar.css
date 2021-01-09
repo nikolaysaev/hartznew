@@ -9,9 +9,6 @@
 
 }
 
-.overalbody {
-  background-image: linear-gradient(to right top, #e8e8e8, #eeeeee, #f3f3f3, #f9f9f9, #ffffff);
-}
 
 .navimage {
   height: 100px;
@@ -21,7 +18,7 @@
 }
 
 .background {
-  background-color: rgba(0,0,0,.05);
+    background-color: rgba(0,0,0,.05);
 }
 
 nav{
@@ -31,11 +28,10 @@ nav{
   min-height: 8vh;
   font-family: 'Play', sans-serif;
   font-style: normal;
-  position: fixed;
+  margin-top: -7%;
   top: 0;
   width: 100%;
   max-width: 1200px;
-  margin: 0 auto;
   z-index: 90;
   border-radius: 0 0 5px 5px;
   -moz-box-shadow:    2px 3px 5px 6px rgba(0, 0, 0, 0.05);
@@ -53,7 +49,7 @@ nav{
 .nav-links{
   display: flex;
   justify-content: space-around;
-  margin-right: -50px;
+  margin-right: -100px;
 
 }
 

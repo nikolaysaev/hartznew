@@ -32,38 +32,40 @@
   float: left;
   width: 45%;
   border-style: solid;
-  border-width: 1.2px;
+  border-width: 0px;
   border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
   padding: 1%;
-  -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
 }
 
 .block-two {
   float: right;
   width: 45%;
-  border-style: solid;
-  border-width: 1.2px;
+  border-width: 0px;
   border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
   padding: 1%;
   margin-right: 5%;
-  -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
 }
 
 .hmm {
   text-align: center;
   border-style: solid;
-  border-width: 1.2px;
+  border-width: 0px;
   border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
   padding: 1%;
   margin-left: 5%;
   margin-right: 5%;
-  -moz-box-shadow:    3px 3px 5px 6px #ccc;
-  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-  box-shadow:         3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
   font-family: 'Play', sans-serif;
 
 
