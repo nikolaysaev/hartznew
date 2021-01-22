@@ -7,6 +7,16 @@
 
 }
 
+@media screen and (max-width:1024px) {
+    .block-two {
+      position: absolute;
+      margin-top: 550px;
+      min-width: 515px;
+
+    }
+}
+
+
 .srvcs {
 
 }
@@ -27,6 +37,13 @@
   margin-right: 20%;
 
 }
+
+@media screen and (max-width:1024px) {
+    .hmm {
+      max-width: 515px;
+    }
+}
+
 
 .block-one {
   float: left;
