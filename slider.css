@@ -5,9 +5,18 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+
   position: relative;
   margin: auto;
+  margin-left: 10%;
+
+}
+
+
+.asd {
+  max-height: 700px;
+  max-width: 800px;
+  border-radius: 5px;
 }
 
 /* Next & previous buttons */
@@ -28,7 +37,8 @@ img {vertical-align: middle;}
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
+  right: 1;
+  margin-left: 70%;
   border-radius: 3px 0 0 3px;
 }
 
@@ -94,4 +104,79 @@ img {vertical-align: middle;}
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
+}
+
+@media screen and (max-width:1024px) {
+    .next {
+      margin-left: 35%;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .prev {
+      margin-left: -2%;
+    }
+}
+
+
+@media screen and (max-width:1024px) {
+    .slideshow-container {
+      margin-left: 8%;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .asd {
+
+      margin-left: 4%;
+
+
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .slideshow-container {
+
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .text {
+      max-width: 250px;
+      max-height: 450px;
+      margin-left: 18%;
+
+    }
+}
+
+
+@media screen and (max-width:1024px) {
+    .mySlides {
+      margin-left: -2%;
+
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .asd {
+      margin-left: 0%;
+      max-width: 450px;
+      max-height: 450px;
+
+
+    }
+}
+
+
+@media screen and (max-width:1024px) {
+    .asd .dot {
+      margin-right: -10%;
+      margin-left: 1%;
+      text-align: center;
+
+
+    }
 }

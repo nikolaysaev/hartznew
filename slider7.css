@@ -1,0 +1,40 @@
+.cccc3 {
+
+  float: right;
+  margin-top: 0%;
+  margin-right: -0%;
+}
+
+.footer {
+  margin-top: 45%;
+}
+
+.asd {
+  max-height: 600px;
+  max-width: 400px;
+}
+
+.slideshow-container {
+  max-height: 590px;
+}
+
+.next {
+  margin-left: 88.5%;
+}
+
+
+@media screen and (max-width:1024px) {
+    .cccc3 {
+        float: left;
+        margin-top: 10%;
+        margin-left: 7%;
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .footer {
+        margin-top: 70%;
+
+    }
+}

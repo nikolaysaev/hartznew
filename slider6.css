@@ -1,0 +1,117 @@
+.cccc3 {
+
+  float: right;
+  margin-top: -50%;
+  margin-right: 3%;
+}
+
+.footer {
+  margin-top: 20%;
+}
+
+.asd {
+  max-height: 600px;
+  max-width: 500px;
+}
+
+.next {
+  margin-left: 92%;
+}
+
+.social-menu {
+  margin-top: 10%;
+  margin-left: 15%;
+}
+
+
+
+.s-lflooring {
+
+  margin-left: 5%;
+
+  width: 600px;
+  border-radius: 5px 5px 5px 5px;
+  -moz-box-shadow:    2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  box-shadow:         2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  background-color: #FAFCFF;
+  background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+  background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+  background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+}
+
+
+.s-lflooring h1 {
+   font-size: 20px;
+   margin-top: 5%;
+}
+
+.s-lflooring p {
+  margin-top: 15px;
+}
+
+.s-lflooring li {
+  margin-top: 10px;
+}
+
+.text5 {
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  text-align: justify;
+}
+
+
+@media screen and (max-width:1024px) {
+    .cccc3 {
+        float: left;
+        margin-top: 10%;
+        margin-left: 7%;
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .footer {
+        margin-top: 70%;
+
+    }
+}
+
+
+
+@media screen and (max-width:1024px) {
+    .bottomsec {
+        margin-top: 55%;
+        margin-left: 0%;
+
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .cccc3 {
+        float: left;
+        margin-top: 5%;
+        margin-left: 3%;
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .footer {
+        margin-top: 10%;
+
+    }
+}
+
+
+
+
+
+@media screen and (max-width:1024px) {
+    .s-lflooring {
+        width: 500px;
+
+    }
+}
