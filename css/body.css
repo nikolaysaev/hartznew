@@ -1,0 +1,289 @@
+.overalbody {
+  background-color: #F5FFF9;
+  min-width: 1200px;
+  max-width: 1200px;
+}
+
+.logo3 {
+  position: absolute;
+  display: inline-block;
+  min-width: 1200px;
+  margin-top: 160px;
+  height: 300px;
+  min-height: 300px;
+  z-index: -1;
+
+}
+
+
+.liquid {
+  height: 65%;
+  width: 40%;
+  margin-left: 150px;
+  margin-top: -1%;
+}
+
+.circle1 {
+  position: absolute;
+  float: left;
+  width: 220px;
+  height: 170px;
+  margin-left: -650px;
+  margin-top: 10px;
+}
+
+.upper-right {
+  float: right;
+  position: absolute;
+  margin-top: 2%;
+  margin-left: 20%;
+  width: 50%;
+
+}
+
+
+
+.next2social {
+  float: right;
+  position: relative;
+  margin-top: -25%;
+
+
+}
+
+.n2s {
+  float: right;
+  position: relative;
+  margin-top: 75%;
+  margin-right: 110%;
+  height: 140px;
+  width: 300px;
+
+}
+
+
+.text-info {
+  padding: 20px;
+  margin-right: 0%;
+  margin-left: 1%;
+  margin-top: 15%;
+  min-width: 40%;
+
+}
+
+.text-info p {
+  margin-top: 2%;
+  font-family: 'Play', sans-serif;
+  min-width: 40%;
+
+}
+
+.text-info h1 {
+  font-family: 'Play', sans-serif;
+}
+
+.text-info li {
+  margin-top: 1%;
+  font-family: 'Play', sans-serif;
+}
+
+
+@media screen and (max-width:1024px) {
+    .text-info {
+        width: 90%;
+        margin-left: -10px;
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .bubble {
+        width: 40%;
+        margin-left: 20px;
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .images1 {
+      position: relative;
+      margin-top: -5%;
+      margin-left: 0px;
+      float: left;
+
+
+
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .body2 {
+      display: inline-block;
+
+      max-width: 450px;
+      max-height: 450px;
+
+
+    }
+}
+
+
+
+
+
+.bubble {
+  margin-right: 37%;
+  margin-left: 5%;
+  border-radius: 5px 5px 5px 5px;
+  -moz-box-shadow:    2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  box-shadow:         2px 3px 5px 6px rgba(0, 0, 0, 0.05);
+  background-color: #FAFCFF;
+  background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)));
+  background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+  background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%);
+}
+
+.images1 {
+  float: right;
+
+}
+
+.logo1 {
+  width: 8%;
+  height: 8%;
+  margin-left: 4%;
+  margin-top: 20px;
+  z-index: 101;
+}
+
+.body2 {
+  float: right;
+  width: 35%;
+  height: 65%;
+  left: 0;
+  border-radius: 3px;
+  z-index: -1;
+  margin-top: -400px;
+
+}
+
+.body1 {
+  position: relative;
+  margin-top: -380px;
+  left: 0px;
+  float: right;
+  min-width: 70%;
+  max-width: 85%;
+  border-radius: 3px;
+
+
+}
+
+
+
+.socialmedia {
+  margin-left: 70px;
+  margin-top: 25px;
+}
+
+
+.socialmedia i {
+  margin: 30px;
+}
+
+.social-menu {
+  margin-top: 7%;
+  margin-bottom: 0%;
+  margin-left: 15%;
+}
+
+@media screen and (max-width:1024px) {
+    .social-menu {
+      margin-left: 11%;
+    }
+}
+
+
+body {
+    background-color: #d8d8d8;
+}
+h1 {
+  text-align: center;
+}
+.social-menu ul {
+    position: relative;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+.social-menu ul li {
+    list-style: none;
+    margin: 0 10px;
+}
+.social-menu ul li .fa {
+    color: #000000;
+    font-size: 25px;
+    line-height: 50px;
+    transition: .5s;
+}
+.social-menu ul li .fa:hover {
+    color: #ffffff;
+}
+.social-menu ul li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    transition: 0.5s;
+    transform: translate(0,0px);
+    box-shadow: 0px 7px 5px rgba(0, 0, 0, 0.5);
+}
+.social-menu ul li a:hover {
+    transform: rotate(0deg) skew(0deg) translate(0, -10px);
+}
+.social-menu ul li:nth-child(1) a:hover {
+    background-color: #3b5999;
+}
+.social-menu ul li:nth-child(2) a:hover {
+    background-color: #55acee;
+}
+.social-menu ul li:nth-child(3) a:hover {
+    background-color: #e4405f;
+}
+.social-menu ul li:nth-child(4) a:hover {
+    background-color: #cd201f;
+}
+.social-menu ul li:nth-child(5) a:hover {
+    background-color: #0077B5;
+}
+
+
+.aboveslider {
+  padding: 20px;
+  margin-right: 0%;
+  margin-left: 2%;
+  margin-top: 0%;
+}
+
+.aboveslider p {
+  margin-top: 2%;
+  font-family: 'Play', sans-serif;
+
+}
+
+.aboveslider h1 {
+  font-family: 'Play', sans-serif;
+
+}
+
+.aboveslider li {
+  margin-top: 1%;
+  font-family: 'Play', sans-serif;
+}

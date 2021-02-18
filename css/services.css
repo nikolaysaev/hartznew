@@ -1,0 +1,94 @@
+.services {
+   margin-left: 5%;
+   margin-top: 5%;
+   display: inline-block;
+   font-family: 'Play', sans-serif;
+
+
+}
+
+@media screen and (max-width:1024px) {
+    .block-two {
+      position: absolute;
+      margin-top: 550px;
+      min-width: 515px;
+
+    }
+}
+
+
+.srvcs {
+
+}
+
+.services h2 {
+  margin-top: 15px;
+
+}
+
+.srvcs h2 p {
+  padding-top: 10px;
+  margin-right: ;
+
+}
+
+.srvcs li {
+  padding-top: 10px;
+  margin-right: 20%;
+
+}
+
+@media screen and (max-width:1024px) {
+    .hmm {
+      max-width: 515px;
+    }
+}
+
+
+.block-one {
+  float: left;
+  width: 45%;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
+  padding: 1%;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
+}
+
+.block-two {
+  float: right;
+  width: 45%;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
+  padding: 1%;
+  margin-right: 5%;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
+}
+
+.hmm {
+  text-align: center;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.05);
+  padding: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+  -moz-box-shadow:    3px 3px 5px 6px #BEBBC0;
+  -webkit-box-shadow: 3px 3px 5px 6px #BEBBC0;
+  box-shadow:         3px 3px 5px 6px #BEBBC0;
+  font-family: 'Play', sans-serif;
+
+
+}
+
+.services-full {
+
+
+}
